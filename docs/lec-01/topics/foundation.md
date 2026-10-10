@@ -14,6 +14,10 @@ The Fundamental Question,
 
 <br/>
 
+![Image](../../../images/ai-01.png)
+
+<br/>
+
 ## Intelligence
 
 We just don't want to understand (`science`) intelligence but we also want to build (`engineering`) the intelligence as well
