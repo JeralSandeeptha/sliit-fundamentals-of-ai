@@ -4,3 +4,4 @@
 - [Foundation](./topics/foundation.md)
 - [Evolution of AI](./topics/evolution.md)
 - [Classification of Capability](./topics/classification.md)
+- [Task in AI](./topics/tasks.md)
