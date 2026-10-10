@@ -1,5 +1,7 @@
 # Components of an Intelligence
 
+![Image](../../../images/ai-02.png)
+
 We often treat AI as a magic box: `Input` → `Magic` → `Output`.
 
 `The Engineering Reality`: Intelligence is a system of 6
