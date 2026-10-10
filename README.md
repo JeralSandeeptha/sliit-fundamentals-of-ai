@@ -18,5 +18,6 @@ Focus: Critical evaluation over rote memorization
 
 ## Lectures
 
-- [Lecture 01 - Basic Concepts, Foundation & Evolution of AI](./docs/lec-01/index.md)
-- [Lecture 02 - Components of an Intelligent Systems](./docs/lec-02/index.md)
+- [Basic Concepts, Foundation & Evolution of AI](./docs/lec-01/index.md)
+- [Components of an Intelligent Systems](./docs/lec-02/index.md)
+- [Searching Algorythms](./docs/searching_algos/index.md)
