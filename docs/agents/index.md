@@ -63,16 +63,3 @@ Unlike a standard chatbot that only replies with text, an AI agent takes real-wo
 ## PEAS Framework
 
 ![Image](../../images/peas-01.png)
-
-<br/>
-
-## Environmental Complexity
-
-![Image](../../images/peas-02.png)
-![Image](../../images/peas-03.png)
-![Image](../../images/peas-04.png)
-![Image](../../images/peas-05.png)
-![Image](../../images/peas-06.png)
-![Image](../../images/peas-07.png)
-![Image](../../images/peas-08.png)
-![Image](../../images/peas-09.png)
