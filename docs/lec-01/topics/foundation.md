@@ -52,10 +52,6 @@ So we are care about the `Result` not about the `Process`. So that's why we are 
 
 ## AI Hierarchy
 
-![Image](https://media.licdn.com/dms/image/v2/D5612AQGrD1fmkHH2Vg/article-cover_image-shrink_600_2000/B56ZlxEbgDG0AQ-/0/1758538618231?e=1785974400&v=beta&t=l3M6MYUwStcHtD536v4-ksuxz9vGcRxXPQMvKQZ7MXM)
-
-![Image](https://media.licdn.com/dms/image/v2/D5622AQHj7pV1KGakDQ/feedshare-shrink_800/B56ZhBjm9QHkAg-/0/1753446510904?e=1785974400&v=beta&t=hwPcK8lhoI3CE4mkCDrYZYS-YwlhhMt_hw0MkVYegC0)
-
 ![Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*E_9wQLUctinBV-7mrwnbmg.jpeg)
 
 <br/>
