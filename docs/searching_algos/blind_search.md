@@ -14,8 +14,23 @@
 
 <br/>
 
+## Key evaluation criteria:
+
+- `Completeness`: Does it always find a solution if one exists?
+
+- `Time Complexity`: How long does it take to find a solution?
+
+- `Space Complexity`: How much memory is required?
+
+- `Optimality`: Does it find the lowest-cost/shortest path?
+
+<br/>
+
 ## Algorythms
 
 - [Breadth-First-Search | BFS](./bfs.md)
 - [Depth-First-Search | DFS](./dfs.md)
 - [Uniform-Cost-Search | UCS](./ucs.md)
+- [Depth-Limited-Search | DLS](./dls.md)
+- Iterative Deeping Depth First Search
+- Bidirectional Search
