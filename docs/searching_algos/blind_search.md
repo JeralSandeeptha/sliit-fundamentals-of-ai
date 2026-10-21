@@ -34,3 +34,16 @@
 - [Depth-Limited-Search | DLS](./dls.md)
 - Iterative Deeping Depth First Search
 - Bidirectional Search
+
+---
+
+## Uninformed Search Algorithms: Quick Comparison Summary
+
+| Algorithm | Complete? | Optimal? | Time Complexity | Space Complexity | Main Data Structure |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Breadth-First Search (BFS)** | Yes | Yes* | $O(b^d)$ | $O(b^d)$ | FIFO Queue |
+| **Depth-First Search (DFS)** | No | No | $O(b^m)$ | $O(bm)$ | LIFO Stack |
+| **Uniform Cost Search (UCS)** | Yes | Yes | $O(b^{1 + C^*/\epsilon})$ | $O(b^{1 + C^*/\epsilon})$ | Priority Queue ($g(n)$) |
+| **Depth-Limited Search (DLS)** | No ($l < d$) | No | $O(b^l)$ | $O(bl)$ | Stack with Depth Limit |
+
+*\*Optimal only if all step costs are equal.*
