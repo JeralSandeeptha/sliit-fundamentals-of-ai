@@ -23,3 +23,4 @@ Focus: Critical evaluation over rote memorization
 - [Introduction to Intelligent Agents](./docs/agents/index.md)
 - [Agents & Environments Architectures](./docs/agent-architectures/index.md)
 - [Searching Algorythms](./docs/searching_algos/index.md)
+- [Constraint Satisfaction](./docs/constraint-satisfaction/index.md)
