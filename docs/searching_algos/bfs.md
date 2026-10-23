@@ -1,10 +1,5 @@
 # Breadth-First-Search | BFS
 
-![Image](../../images/bfs.png)
-![Image](../../images/bfs-01.png)
-
----
-
 - `Strategy`: Expands the shallowest unexpanded node first. It systematically explores the graph level by level.
 
 <br/>
