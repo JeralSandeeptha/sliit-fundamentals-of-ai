@@ -71,14 +71,23 @@
 
 ## Algorythms
 
+Hueristic search algos:
+
 - [Best-First-Search](./bfs.md)
 - [A* Search](./a*-search.md)
 - [Greedy Best-First-Search](./greedy-bfs.md)
-- [Hill Climbing](./hc.md)
+
+<br/>
+
+Local search algos:
+
+- [Hill Climbing Search](./hc.md)
 - [Simulated Annealing Search](./sas.md)
 - [Local Beam Search](./lbs.md)
 
 <br/>
+
+Other algos:
 
 - Stochastic Beam Search
 - A0* Search
